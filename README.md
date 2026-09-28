@@ -1,106 +1,168 @@
-##
-<!--
-**Skamina/Skamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ibrahim Aliyu S. Kamina
 
-Here are some ideas to get you started:
+Cybersecurity Analyst · Web3 Security Researcher · AI & Blockchain Intelligence Builder · Ecosystem Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<!-- Profile README for Skamina -->
+I build and research at the intersection of Cybersecurity, Artificial Intelligence, Blockchain, and Web3.
 
-<h1 align="center">👋 Hi, I'm Ibrahim Aliyu S. Kamina </h1>
-<p align="center">
-  <b>Cybersecurity Analyst</b> • <b>APIsec University Ambassador</b> <br>
-  <b>Web3 Security Researcher</b> • <b>Blockchain Forensics Analyst</b> • AI and Quantum computing Enthusiast</b> • Advocate For Tech-Driven Sustainability
-</p>
+My work spans security research, blockchain intelligence, AI-powered security systems, Web3 infrastructure, technical research, and ecosystem development.
+
+Currently, I'm focused on building products and open-source initiatives through Kaminova, while developing Alphaa Radar, an AI-powered Web3 Opportunity Intelligence platform.
 
 ---
 
-### 🛡️ About Me
+🔭 What I'm Building
 
-Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp focus on securing APIs, web applications, and blockchain ecosystems. I'm passionate about building and auditing secure systems, contributing to decentralized privacy, and exploring the synergy between AI and security.
+🛰️ Alphaa Radar
 
+AI-powered Web3 Opportunity Intelligence
 
+A platform designed to discover, aggregate, analyze, enrich, and rank opportunities across the Web3 ecosystem — including airdrops, testnets, grants, bounties, hackathons, ambassador programs, jobs, research opportunities, and ecosystem campaigns.
 
-
-
-- 🔍 API & Web apps Security | Web3 Security | Blockchain Forensics
-- 🤝 APIsec University Ambassador | Advocate for green blockchain innovation
-- 🧠 Curious about AI’s role in decoding cosmic data & the future of decentralized tech
-
----
-### 💼 Consultancy & Mentoring
-
-I offer consultancy services and mentoring in:
-- Cybersecurity, blockchain security, and API security
-- Digital skills development and career choice in tech
-- Digital transformation strategies for startups and companies
-
-Feel free to reach out via [wa.me/2349138818319](https://wa.me/2349138818319)
----
-
-
-
-### 🚀 Tech Stack & Skills
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/Hardhat-FFC107?style=flat-square&logo=ethereum" />
-<img src="https://img.shields.io/badge/Foundry-00B4AB?style=flat-square&logo=foundry" />               <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js" />
-
-<img src="https://img.shields.io/badge/AI%2FML-282C34?style=flat-square&logo=ai" />                    <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
-<img src="https://img.shields.io/badge/Vyper-2980b9?style=flat-square&logo=vyper" />
-
+Vision: Build the intelligence layer for discovering opportunities across Web3.
 
 ---
 
-### 🌟 Featured Projects
+🏢 Kaminova
 
-- [**NodeWhisper**](https://github.com/Skamina/Nodewhisper)  
-  <sub>AI-powered blockchain forensic suite for tracing, threat heatmaps, and collaborative investigations.</sub>
+Technology & Innovation
 
-- [**GreenTrust Nexus**](https://github.com/Skamina/GreenTech-Nexus) 
-  <sub>A climate-positive Web3 ecosystem merging environmental action and tokenized trust.</sub>
+Building technology, intelligent systems, automation, and digital solutions through Kaminova and its R&D and innovation initiatives.
 
-- [Non-dev Blockchain Careers](https://github.com/Skamina/Non-dev-blockchain--careers)  
-  A curated resource for non-developer opportunities in the blockchain industry.  
-  **Author:** Ibrahim Aliyu S Kamina
+🧪 KaminovaLabs
 
-*Check out my pinned projects below for architecture diagrams, visuals, and more!*
+Research · Innovation · Product Development
+
+An R&D-focused environment for experimenting with emerging technologies, developing products, and exploring ideas at the intersection of AI, cybersecurity, blockchain, and digital transformation.
 
 ---
 
-### 🌐 Connect with Me
+🛡️ Areas of Expertise
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-aliyu-s-kamina-51949220a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/IbrahimSkamina?t=bbx3R-mwrEGGkx1lur2H3A&s=09)
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-8C52FF?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMTYgMTQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMSAxMmMwIC42LjQuOS45LjloMTRjLjUgMCAuOS0uMy45LS45VjRjMC0uNi0uNC0uOS0uOS0uOUgxLjljLS41IDAtLjkuMy0uLjkuOVYxMnoiLz48L3N2Zz4=)](https://roadmap.sh/u/ibrahimaskamina)
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?logo=facebook&logoColor=white)](https://www.facebook.com/erbrerherm.aleryuskermener)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://kaminovalabsgroup.hashnode.dev/)
-
----
-
-### 🎯 Fun Facts
-
-- 🪐 Deeply interested in astrophysics & the role of AI in decoding cosmic data
-- 🌱 Advocate for sustainability in tech and green blockchain innovation
-- 🛠️ Enjoy building open-source tools that challenge traditional security norms
-
----
-
-<details>
-  <summary>👀 Banner & Visuals</summary>
-  <p>
-    <i>Banner/image updates coming soon. For now, check out my pinned projects for visuals, architecture diagrams, and contributions!</i>
-  </p>
-</details>
+- API Security
+- Web Application Security
+- Web3 Security
+- Smart Contract Security Research
+- Blockchain Security
+- Blockchain Forensics
+- Threat Intelligence
+- AI Security
+- AI & Cybersecurity
+- Blockchain Intelligence
+- Security Automation
+- Technical Research
+- Web3 Ecosystem Development
 
 ---
 
-<div align="center">
-  <b>Let's secure the decentralized future, together!</b>
-</div>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Selected Projects
+
+Alphaa Radar
+
+AI-powered Web3 Opportunity Intelligence Platform
+
+NodeWhisper
+
+Blockchain intelligence, monitoring, analytics and forensic investigation platform.
+
+BADIS
+
+Blockchain-Agnostic DApp Immune System — an autonomous security and response concept for decentralized applications.
+
+Web3 Due Diligence
+
+A practical knowledge repository for researching, evaluating and performing due diligence on Web3 projects and opportunities.
+
+Web3 Ecosystem Guide
+
+An educational resource designed to help people understand and navigate the broader Web3 ecosystem.
+
+Non-Dev Blockchain Careers
+
+A resource helping non-developers discover career paths and opportunities across the blockchain industry.
+
+---
+
+🧠 Research Interests
+
+- AI × Cybersecurity
+- AI × Blockchain
+- Smart Contract Security
+- Blockchain Forensics
+- Threat Intelligence
+- Web3 Intelligence
+- Decentralized Security
+- Privacy-preserving systems
+- Security automation
+- Emerging technologies
+- AI for technical research
+
+---
+
+🌍 Ecosystem & Community
+
+Beyond technical research and product development, I work on:
+
+- Web3 ecosystem development
+- Community building
+- Technical education
+- Developer and non-developer onboarding
+- Educational resources
+- Workshops and events
+- Partnerships and ecosystem initiatives
+- Open-source knowledge sharing
+
+My broader goal is to contribute to a stronger and more accessible technology ecosystem, particularly across Nigeria, Africa, and the global Web3 community.
+
+---
+
+🧰 Technologies & Tools
+
+Security: API Security · Web Security · Threat Intelligence · Security Testing · Blockchain Security
+
+Blockchain: EVM · Solidity · Solana · Hedera · DeFi · On-chain Analysis
+
+AI: AI Agents · AI Security · LLMs · Automation · Intelligence Systems
+
+Engineering: Python · FastAPI · PostgreSQL · Redis · Docker · Git · REST APIs
+
+Research: OSINT · Blockchain Forensics · Technical Research · Due Diligence
+
+---
+
+📚 Open Knowledge
+
+I also create and maintain educational resources covering:
+
+- Web3 ecosystem fundamentals
+- Blockchain careers
+- Web3 project research & due diligence
+- Security research
+- Emerging technology
+
+Contributions, corrections, translations and knowledge expansion are welcome.
+
+---
+
+🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+- Cybersecurity research
+- Web3 security
+- AI security
+- Blockchain intelligence
+- Open-source security tooling
+- Web3 infrastructure
+- Ecosystem development
+- Technical research
+- AI-powered products
+
+Building at the intersection of security, intelligence, AI and decentralized technology.
+
+---
+
+Current Focus
+
+«Build. Research. Secure. Educate. Connect.»
+
+Building the next generation of intelligent and secure systems through Kaminova.
